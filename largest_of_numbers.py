@@ -1,4 +1,4 @@
-"//find the largest of 10 number in  python?//"
+
 
 ages =()
 while True:
